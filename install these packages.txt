@@ -1,0 +1,9 @@
+pip install nltk
+pip install wordcloud
+pip install numpl
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+pip install pandas
+pip install numpy
+pip install tweepy (*if required)
